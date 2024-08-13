@@ -8,7 +8,8 @@
 > As you can see, perfection is achieved
 >  not when there is nothing left to add,
 > but when there is nothing left to take away.
-— Antoine de Saint-Exupéry
+> — Antoine de Saint-Exupéry
+
 <!---
 Kseniiatanekem/Kseniiatanekem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
